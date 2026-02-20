@@ -1,0 +1,2 @@
+# Sdominium
+Script termux
